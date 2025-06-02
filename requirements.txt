@@ -1,0 +1,8 @@
+langdetect
+textstat
+gradio
+translator
+nltk
+transformers
+sentencepiece
+pyphen
